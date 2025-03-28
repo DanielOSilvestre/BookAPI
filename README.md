@@ -1,3 +1,9 @@
+# TODO
+Unit testing
+Documentation
+Dockerfile
+
+
 # Prerequisites
 
 .NET 8 SDK
