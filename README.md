@@ -1,3 +1,8 @@
+* Prerequisites
+
+.NET 8 SDK
+
+
 * API Endpoints
 
 ** GET /books/search?query={query}
