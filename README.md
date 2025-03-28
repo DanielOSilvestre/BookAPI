@@ -1,14 +1,14 @@
-* Prerequisites
+# Prerequisites
 
 .NET 8 SDK
 
 
-* API Endpoints
+# API Endpoints
 
-** GET /books/search?query={query}
+## GET /books/search?query={query}
 
-** GET /books/{id}
+## GET /books/{id}
 
-** POST /books
+## POST /books
 
-** GET /books
+## GET /books
